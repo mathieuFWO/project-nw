@@ -34,4 +34,25 @@ yarn-error.log*
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db *.lnk
+*.url
+*.psd
+*.pdf
+*.jpg
+*.png
+*.gif
+*.webp
+AppData/
+Documents/
+Downloads/
+Pictures/
+Videos/
+Music/
+Games/
+OneDrive/
+Microsoft/
+*.regtrans-ms
+*.blf
+*.LOG*
+*.ini
+desktop.ini
