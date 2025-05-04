@@ -105,3 +105,62 @@ temp/
 3D Objects/
 *.txt
 *.svg/
+*.android/
+*.bash_history
+*.chatgpt/
+*.config/
+*.cursor/
+*.gitconfig
+*.lesshst
+*.openshot_qt/
+*.oracle_jre_usage/
+3D Objects/
+*.txt
+*.svg/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.lnk
+*.url
+*.psd
+*.pdf
+*.ini
+desktop.ini
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Creative Cloud Files/
+Documents/
+Downloads/
+Evernote/
+Favorites/
+Games/
+Intel/
+Links/
+Local Settings/
+Menu Démarrer/
+Mes documents/
+Microsoft/
+MicrosoftEdgeBackups/
+Music/
+My Documents/
+OneDrive/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+SkyDrive/
+Start Menu/
+Tracing/
+Videos/
+ZelCore/
+insta360/
+temp/
+NTUSER.DAT*
+*.regtrans-ms
+*.blf
+*.LOG*
