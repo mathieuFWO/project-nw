@@ -93,3 +93,15 @@ Videos/
 ZelCore/
 insta360/
 temp/
+*.android/
+*.bash_history
+*.chatgpt/
+*.config/
+*.cursor/
+*.gitconfig
+*.lesshst
+*.openshot_qt/
+*.oracle_jre_usage/
+3D Objects/
+*.txt
+*.svg/
